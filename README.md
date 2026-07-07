@@ -6,7 +6,6 @@
 ![Spark](https://img.shields.io/badge/Apache%20Spark-3.4%2B-orange)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-3.x-black)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-2.7%2B-017CEE)
-![Terraform](https://img.shields.io/badge/Terraform-1.5%2B-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
